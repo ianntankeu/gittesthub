@@ -1,1 +1,1 @@
-first buld  for jenkins integration
+first buld  for jenkins integrations
